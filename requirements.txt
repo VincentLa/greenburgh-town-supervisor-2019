@@ -1,4 +1,5 @@
 censusgeocode
+geocoder
 jupyter
 pandas
 pyproj
