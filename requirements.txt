@@ -3,3 +3,4 @@ geocoder
 jupyter
 pandas
 pyproj
+xlrd
